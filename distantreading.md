@@ -10,7 +10,7 @@ Using Part 2 and Part 3 of Blevin's Martha Ballard Diary blog posts, do the foll
 
 | Pros/ Possibiliies | Cons/ Limitations | 
 | ------------- |:-------------:| 
-| xxxxxxxxxxx   | yyyyyyyyyyyy  |
+| emeline   | yyyyyyyyyyyy  |
 | zzzzzzzzzzz   | zzzzzzzzzz    |
 
 3.  Based on Moretti's work, is Blevin's  "distant reading"?
