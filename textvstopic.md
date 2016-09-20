@@ -39,3 +39,4 @@ Before we take a look at [Mining the Dispatch](http://dsl.richmond.edu/dispatch/
 
 
 Next Tuesday, we are going to add to this table based on the readings. 
+ 
