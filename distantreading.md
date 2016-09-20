@@ -17,14 +17,14 @@ Using Part 2 and Part 3 of Blevin's Martha Ballard Diary blog posts, do the foll
 
 Using the Topic Modeling section of Blevin's Martha Ballard Diary blog posts, do the following:
 
-1. Blevins would take the diary and convert it into text, and MALLET would produce different word topics, which Blevins gave a descriptive label. MALLET did not note the use of the word, but rather which words frequently occurred and when. 
+1. Blevins would take the diary and convert it into text, and MALLET would produce different word topics, which Blevins gave a descriptive label. MALLET did not note the use of the word, but rather which words frequently occurred and when. Words would be grouped together, and Blevins can track larger trends over time such as gardening in summer months or housework in her later years through topic modeling, rather than specific words and sparklines. 
 
 2. Create a list of pros/possibiliites and cons/ limitations of the method(s) used. 
 
 | Pros/ Possibiliies | Cons/ Limitations | 
 | ------------- |:-------------:| 
-| Can track trends across (Blevins, 10/19/2009)  | yyyyyyyyyyyy  |
-| zzzzzzzzzzz   | zzzzzzzzzz  (Brett, Vol 2 2012)  |
+| Can track large trends across time (Blevins, 10/19/2009)  | Some words humans intuitively group together a computer won't which can create some problems  |
+| Unbiased reading of the text   | Algorithms need to be right, and visualizations need to be understandable or the data can be messy and unreadble  (Brett, Vol 2 2012)  |
 
 Now use Brett's piece to add to this table. 
 
