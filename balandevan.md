@@ -6,6 +6,7 @@ Using Part 2 and Part 3 of Blevin's Martha Ballard Diary blog posts, do the foll
 
 1. Write 2-3 sentences outling his method(s). 
 
+
 2. Create a list of pros/possibiliites and cons/ limitations of the method(s) used. 
 
 | Pros/ Possibiliies | Cons/ Limitations | 
