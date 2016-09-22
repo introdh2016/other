@@ -28,7 +28,7 @@ Using the Topic Modeling section of Blevin's Martha Ballard Diary blog posts, do
 
 Now use Brett's piece to add to this table. 
 
-3. Based on Moretti's work, is Blevin's "distant reading"?
+3. Based on Moretti's work, is Blevin's "distant reading"? Yes, he is distant reading by separating the text and not doing a close and thorough reading, but at the same time he did do a close reading in order to double check what the computer program produced.
 
 
 Before we take a look at [Mining the Dispatch](http://dsl.richmond.edu/dispatch/):
